@@ -1,2 +1,2 @@
 # TetrECS
-Coursework for Southampton University Programming III
+Coursework for Southampton University Programming II
